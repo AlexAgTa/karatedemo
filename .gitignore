@@ -1,0 +1,16 @@
+.idea/
+*.iml
+.gradle/
+build/
+*.log
+target/
+.DS_Store
+Thumbs.db
+.mvn/
+target/
+*.jar
+*.war
+*.ear
+*.class
+.build/
+libs/*.jar
