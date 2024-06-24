@@ -47,3 +47,10 @@ mvn test -Dtest=LoginRunner#testLogin
 mvn test -Dtest=SignupRunner#testSignup
 
 ```
+
+### 4. Scenario
+
+This karate test was written and run in a Ubuntu 24.0 machine. The machine have the next software versions:
+
+- OpenJDK: 21.0
+- Apache Maven: 3.9.8
