@@ -66,4 +66,3 @@ This karate test was written and run in a Ubuntu 24.0 machine. The machine have 
 
 - OpenJDK: 21.0
 - Apache Maven: 3.9.8
->>>>>>> 8d44aef6551c27d7a83d81a25ee2c9551d792639
