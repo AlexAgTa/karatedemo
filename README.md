@@ -4,6 +4,10 @@ This is a demo project created for API testing of www.demoblaze.com.
 
 ## How to Use
 
+## Prerequisites
+- Java Runtime Environment (JRE) 21 installed
+- Apache Maven 3.8.7
+
 ### 1. Cloning the Project
 
 First, clone the project repository:
@@ -48,7 +52,6 @@ mvn test -Dtest=SignupRunner#testSignup
 
 ```
 
-<<<<<<< HEAD
 Check that a new folder was created in `/target/karate-reports`
 
 **NOTE:** Before running either Login Test or Signup Test, you should delete the `/target/karate-reports` generated.
@@ -59,10 +62,3 @@ This karate test was written and ran in a Ubuntu 24.0 machine. The machine have 
 
 - OpenJDK: 21.0
 - Apache Maven: 3.8.7
-=======
-### 4. Scenario
-
-This karate test was written and run in a Ubuntu 24.0 machine. The machine have the next software versions:
-
-- OpenJDK: 21.0
-- Apache Maven: 3.9.8
